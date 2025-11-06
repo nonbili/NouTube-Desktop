@@ -4,7 +4,11 @@ YouTube and YouTube Music in a single app. No ads.
 
 This repo only contains the desktop releases. Source code and mobile version can be found at https://github.com/nonbili/NouTube. Please report feature requests and bugs there.
 
-Download Linux/macOS/Windows version from [Release page](https://github.com/nonbili/NouTube-Desktop/releases).
+<a href="https://github.com/nonbili/NouTube-Desktop/releases/latest">
+  <img height="50" alt="Get it on GitHub" src="metadata/get-on-github.png"/></a>
+<a href="https://flathub.org/apps/jp.nonbili.noutube">
+  <img height="50" alt="Get it on Flathub" src="https://flathub.org/api/badge?locale=en"/>
+</a>
 
 ## Screenshots
 
